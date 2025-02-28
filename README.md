@@ -1,2 +1,5 @@
 # poplar-bluff-data-resources
 Repository for storing data resources and URLs for Poplar Bluff and Butler County, Missouri.
+## Data Resources
+
+- [U.S. Census Bureau QuickFacts: Poplar Bluff, Missouri](https://www.census.gov/quickfacts/fact/table/poplarbluffcitymissouri/PST045224)
