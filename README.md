@@ -3,3 +3,4 @@ Repository for storing data resources and URLs for Poplar Bluff and Butler Count
 ## Data Resources
 
 - [U.S. Census Bureau QuickFacts: Poplar Bluff, Missouri](https://www.census.gov/quickfacts/fact/table/poplarbluffcitymissouri/PST045224)
+- [Data USA Profile: Poplar Bluff, MO](https://datausa.io/profile/geo/poplar-bluff-mo)
